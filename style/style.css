@@ -26,6 +26,7 @@ main {
 
 .header-subtitle {
   font-size: 1.5rem;
+  color: rgba(0, 0, 0, 0.2);
 }
 
 .sections-container {
@@ -42,8 +43,12 @@ main {
 }
 
 .brand-image {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
+  transition: transform 0.7s ease-in-out;
+}
+.brand-image:hover {
+  transform: scale(1.1);
 }
 
 body {

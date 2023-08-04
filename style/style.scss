@@ -31,6 +31,7 @@ main {
 
 .header-subtitle {
   font-size: 1.5rem;
+  color: rgba(#000, 0.2);
 }
 
 .sections-container {
@@ -49,10 +50,14 @@ main {
   //   background-color: #f7f7f7;
   // }
 }
-
 .brand-image {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
+  transition: transform 0.7s ease-in-out;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 }
 
 body {
