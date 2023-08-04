@@ -1,0 +1,41 @@
+@font-face {
+    font-family: sb_font;
+    font-style: normal;
+    font-weight: 900;
+    src: url("../fonts/Qs_Iranyekan\ extrabold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: sb_font;
+    font-style: normal;
+    font-weight: bold;
+    src: url("../fonts/Qs_Iranyekan\ bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: sb_font;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/Qs_Iranyekan\ medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: sb_font;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Qs_Iranyekan.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: sb_font;
+    font-style: normal;
+    font-weight: 300;
+    src: url("../fonts/Qs_Iranyekan\ light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: sb_font;
+    font-style: normal;
+    font-weight: 200;
+    src: url("../fonts/Qs_Iranyekan\ thin.ttf") format("truetype");
+}
